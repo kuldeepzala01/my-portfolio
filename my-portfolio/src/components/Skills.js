@@ -16,7 +16,7 @@ export default function Services() {
     {
       title: "Software Development",
       description: "Developing custom software solutions for various industries.",
-      icon: "software-development-icon.png",
+      icon: "4Service.jpg",
     },
     {
       title: "General Programming",
